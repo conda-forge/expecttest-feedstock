@@ -1,5 +1,5 @@
 {% set name = "expecttest" %}
-{% set version = "0.1.3" %}
+{% set version = "0.1.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/expecttest-{{ version }}.tar.gz
-  sha256: 83057695811d94128aed13ed094a070db90e0a92ea40071f8ee073cbab57149a
+  sha256: 26d8f3cb3aa23989242a8782e169325e76c40a454c9e99639e7d8a8ee47862f6
 
 build:
   number: 0
