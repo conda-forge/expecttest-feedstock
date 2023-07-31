@@ -1,11 +1,11 @@
-About expecttest
-================
+About expecttest-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/expecttest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ezyang/expecttest
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/expecttest-feedstock/blob/main/LICENSE.txt)
 
 Summary: Expect tests for unittest
 
@@ -151,5 +151,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@ezyang](https://github.com/ezyang/)
 * [@pmeier](https://github.com/pmeier/)
 
